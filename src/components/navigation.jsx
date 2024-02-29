@@ -1,7 +1,6 @@
 import React from "react";
 
 export const Navigation = (props) => {
-  console.log("1111", props);
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
@@ -19,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            {props.data && (
+          {props.data && (
               <img className="logo" src={props.data.img} alt={props.data.alt} />
             )}
           </a>
