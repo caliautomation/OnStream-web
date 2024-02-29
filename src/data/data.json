@@ -159,6 +159,10 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
+  "logo": {
+    "img": "img/logo/onstreamlogo.png",
+    "alt": "OnStream logo"
+  },
   "Features": [
     {
       "icon": "fa fa-comments-o",
