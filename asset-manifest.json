@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OnStream-web%20/static/css/main.ae42ac5f.css",
+    "main.js": "/OnStream-web%20/static/js/main.784ac44f.js",
+    "index.html": "/OnStream-web%20/index.html",
+    "main.ae42ac5f.css.map": "/OnStream-web%20/static/css/main.ae42ac5f.css.map",
+    "main.784ac44f.js.map": "/OnStream-web%20/static/js/main.784ac44f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.784ac44f.js"
+  ]
+}
